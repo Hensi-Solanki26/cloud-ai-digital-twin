@@ -49,17 +49,7 @@ At least 30 valid daily rows are recommended. Built-in data is synthetic.
 3. What-if Business Digital Twin
 4. Cloud Architecture & Resource Management Simulator
 5. Security & SLA
-6. About, limitations and ICC syllabus mapping
-
-## ICC syllabus mapping
-
-- Unit 1: Distributed-computing concepts explained in the report.
-- Unit 2: Virtual server simulation; virtualization and hypervisors explained.
-- Unit 3: Cloud basics, SaaS/PaaS/IaaS, deployment discussion.
-- Unit 4: Resource pooling, elasticity, scalability and load-balancing simulation.
-- Unit 5: Load-balanced instances and resource management simulation; remaining advanced patterns explained in report.
-- Unit 6: Demo authentication, identity/access-control concepts and security limitations.
-- Unit 7: SLA example, illustrative billing estimate, and cloud provider case study in report.
+6. About, limitations 
 
 ## Limitations
 
